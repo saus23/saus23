@@ -13,8 +13,7 @@
 
 <p> &emsp; </p>
 
-
-<img src="https://images.credly.com/images/51720c50-39e4-41f5-abe5-c4ae12b8e26c/image.png" alt="CPE" width="150"/> &emsp; <img src="https://images.credly.com/images/01cbdda3-ce36-439a-867d-310b13f99bc7/image.png" alt="CPA" width="150"/>
+<img src="https://images.credly.com/images/01cbdda3-ce36-439a-867d-310b13f99bc7/image.png" alt="CPA" width="150"/> &emsp; <img src="https://images.credly.com/images/51720c50-39e4-41f5-abe5-c4ae12b8e26c/image.png" alt="CPE" width="150"/>
 
 <p> &emsp; </p>
 
