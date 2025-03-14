@@ -1,4 +1,4 @@
-<h1>Mark Meaney | <a href="https://www.linkedin.com/in/mark-meaney-176280354/"> IT & Software Development </a>💻</h1>
+<h1>Mark Meaney | <a href="https://www.linkedin.com/in/mark-meaney-176280354/"> IT & Software Development </a>⚙️</h1>
 <p>Hi, I'm Mark. Here you will find some of my IT tutorials, projects and personal linux configuration files.</p>
 
 <p>A lifelong love for computers led to a passion for learning IT, coding and linux.</p>
@@ -24,7 +24,7 @@
   - [Azure VM implementation](https://github.com/saus23/AD-Lab)
   - [Group Policy Objects (GPOs) and general config](https://github.com/saus23/AD-Lab/tree/main/GPO)
  
-<h2>⚙️ Linux</h2>
+<h2>💻 Linux</h2>
 
 - <b>Suckless Utils</b>
   - [dwm (dynamic window manager)](https://github.com/saus23/dwm)
