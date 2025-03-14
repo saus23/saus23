@@ -1,7 +1,6 @@
 <h1>Mark Meaney | <a href="https://www.linkedin.com/in/mark-meaney-176280354/"> IT & Software Development </a>⚙️</h1>
 <p>Hi, I'm Mark. Here you will find some of my IT tutorials, projects and personal linux configuration files.</p>
-
-<p>A lifelong love for computers led to a passion for learning IT, coding and linux.</p>
+<p> &emsp; </p>
 
 <h2>📜 Certifications</h2>
 <b><p>- [CPA-21-02] CPA – C++ Certified Associate Programmer:</b>
@@ -12,7 +11,13 @@
 
 <b><p>- CourseCareers IT Certification</b></p>
 
+<p> &emsp; </p>
+
+
 <img src="https://images.credly.com/images/51720c50-39e4-41f5-abe5-c4ae12b8e26c/image.png" alt="CPE" width="150"/> &emsp; <img src="https://images.credly.com/images/01cbdda3-ce36-439a-867d-310b13f99bc7/image.png" alt="CPA" width="150"/>
+
+<p> &emsp; </p>
+
 
 
 <h2>👨‍💻 IT Tutorials</h2>
@@ -23,6 +28,8 @@
 - <b>Active Directory</b>
   - [Azure VM implementation](https://github.com/saus23/AD-Lab)
   - [Group Policy Objects (GPOs) and general config](https://github.com/saus23/AD-Lab/tree/main/GPO)
+<p> &emsp; </p>
+
  
 <h2>💻 Linux</h2>
 
@@ -35,6 +42,7 @@
 - <b>Scripts</b>
   - [general & dwmblocks](https://github.com/saus23/scripts)
 
+<p> &emsp; </p>
 
 
 <h2>🤳Connect with me:</h2>
