@@ -29,11 +29,10 @@
 <p> &emsp; </p>
 
 <h2>📜 Certifications</h2>
-<b><p>- [CPA-21-02] CPA – C++ Certified Associate Programmer:</b>
-<a href="https://verify.openedg.org/?id=AA9J.rGRN.LGBN"> verification</a>
-  
-<b><p>- [CPE-20-01] CPE – C++ Certified Entry-Level Programmer:</b>
-<a href="https://verify.openedg.org/?id=1Pm7.81zY.r4jm"> verification</a>
+<b><p>- <a href="https://verify.openedg.org/?id=AA9J.rGRN.LGBN"> [CPA-21-02] CPA – C++ Certified Associate Programmer</a><b>
+
+<b><p>- <a href="https://verify.openedg.org/?id=1Pm7.81zY.r4jm"> [CPE-20-01] CPE – C++ Certified Entry-Level Programmer</a><b>
+
 
 <b><p>- CourseCareers IT Certification</b></p>
 
