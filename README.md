@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 IT Tutorials</h2>
 
-- <b>osTicket-nginx</b>
+- <b>nginx-osTicket</b>
   - [osTicket: Linux implementation](https://github.com/saus23/osTicket-nginx)
   - [osTicket: general configuration](https://github.com/saus23/osTicket-nginx/tree/main/config)
 - <b>Active Directory</b>
