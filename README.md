@@ -8,7 +8,7 @@
 
 - <b>nginx-osTicket</b>
   - [osTicket: Linux implementation](https://github.com/saus23/osTicket-nginx)
-  - [osTicket: general configuration](https://github.com/saus23/osTicket-nginx/tree/main/config)
+  - [osTicket: general config & use](https://github.com/saus23/osTicket-nginx/tree/main/config)
 - <b>Active Directory</b>
   - [Azure setup](https://github.com/saus23/AD-Lab)
   - [Active Directory implementation](https://github.com/saus23/AD-Lab/tree/main/GPO)
