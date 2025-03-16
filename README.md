@@ -7,11 +7,12 @@
 <h2>👨‍💻 IT Tutorials</h2>
 
 - <b>nginx-osTicket</b>
-  - [osTicket: Linux implementation](https://github.com/saus23/osTicket-nginx)
+  - [osTicket: Linux implementation](https://github.com/saus23/osTicket-nginx/blob/main/README.md)
   - [osTicket: general config & use](https://github.com/saus23/osTicket-nginx/tree/main/config)
 - <b>Active Directory</b>
-  - [Azure setup](https://github.com/saus23/AD-Lab)
-  - [Active Directory implementation](https://github.com/saus23/AD-Lab/tree/main/GPO)
+  - [Azure setup](https://github.com/saus23/AD-Lab/blob/main/README.md)
+  - [Active Directory implementation](https://github.com/saus23/AD-Lab/blob/main/implementation/)
+  - [Active Directory GPOs](https://github.com/saus23/AD-Lab/blob/main/GPO/)
 <p> &emsp; </p>
 
  
