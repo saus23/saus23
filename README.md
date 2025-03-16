@@ -10,8 +10,8 @@
   - [osTicket: Linux implementation](https://github.com/saus23/osTicket-nginx)
   - [osTicket: general configuration](https://github.com/saus23/osTicket-nginx/tree/main/config)
 - <b>Active Directory</b>
-  - [Azure VM implementation](https://github.com/saus23/AD-Lab)
-  - [Group Policy Objects (GPOs) and general config](https://github.com/saus23/AD-Lab/tree/main/GPO)
+  - [Azure setup](https://github.com/saus23/AD-Lab)
+  - [Active Directory implementation](https://github.com/saus23/AD-Lab/tree/main/GPO)
 <p> &emsp; </p>
 
  
