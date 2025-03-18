@@ -12,7 +12,7 @@
 - <b>Active Directory</b>
   - [Azure setup](https://github.com/saus23/AD-Lab/blob/main/README.md)
   - [Active Directory implementation](https://github.com/saus23/AD-Lab/blob/main/implementation/)
-  - [Active Directory GPOs](https://github.com/saus23/AD-Lab/blob/main/GPO/)
+  - [Active Directory GPOs and OUs](https://github.com/saus23/AD-Lab/blob/main/GPO/)
 <p> &emsp; </p>
 
  
