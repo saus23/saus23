@@ -7,8 +7,8 @@
 <h2>👨‍💻 IT Tutorials</h2>
 
 - <b>IIS-osTicket</b>
-  - [osTicket: Windows implementation](https://github.com/saus23/osTicket-nginx/blob/main/README.md)
-  - [osTicket: general config & use](https://github.com/saus23/osTicket-nginx/tree/main/config)
+  - [osTicket: Windows implementation](https://github.com/saus23/osTicket/blob/main/README.md)
+  - [osTicket: general config & use](https://github.com/saus23/osTicket/tree/main/config)
 - <b>Active Directory</b>
   - [Azure setup](https://github.com/saus23/AD-Lab/blob/main/README.md)
   - [Active Directory implementation](https://github.com/saus23/AD-Lab/blob/main/implementation/)
