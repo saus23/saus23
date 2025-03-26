@@ -12,7 +12,7 @@
   - [Active Directory GPOs and OUs](https://github.com/saus23/AD-Lab/blob/main/GPO/)
 - <b>IIS-osTicket</b>
   - [osTicket: Windows implementation](https://github.com/saus23/osTicket/tree/main)
-  - [osTicket: general config & use](https://github.com/saus23/osTicket/tree/main/config)
+  - [osTicket: General config & use](https://github.com/saus23/osTicket/tree/main/config)
 - <b>Compiling Software</b>
   - [dwm: Patching and recompiling](https://github.com/saus23/dwm/tree/main/tutorial)
 
