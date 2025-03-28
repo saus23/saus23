@@ -15,7 +15,7 @@
   - [osTicket: General config & use](https://github.com/saus23/osTicket/tree/main/config)
 - <b>Window Managers</b>
   - [dwm: Patching and recompiling](https://github.com/saus23/dwm/tree/main/tutorial)
-  - [General usage and requirements](https://github.com/saus23/dwm/tree/main/tutorial/usage-and-requirements)
+  - [General configuration and requirements](https://github.com/saus23/dwm/tree/main/tutorial/usage-and-requirements)
 
 <p> &emsp; </p>
 
