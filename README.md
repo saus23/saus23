@@ -38,7 +38,7 @@
 
 <b><p>- <a href="https://verify.openedg.org/?id=AA9J.rGRN.LGBN"> [CPA-21-02] CPA – C++ Certified Associate Programmer</a><b>
 
-<b><p>- CourseCareers IT Professional
+<b><p>- <a href="https://profile.coursecareers.com/it/mark.meaney"> CourseCareers IT Professional
 
 <p> &emsp; </p>
 
