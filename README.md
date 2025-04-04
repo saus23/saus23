@@ -1,4 +1,4 @@
-<h1>Mark Meaney <p><a href="https://www.linkedin.com/in/mark-meaney-176280354/"> IT & Software Development </a>⚙️</h1>
+<h1>Mark Meaney <p><a href="https://profile.coursecareers.com/it/mark.meaney"> IT & Software Development </a>⚙️</h1>
 <p>Hi, I'm Mark. Here you will find some of my IT tutorials, projects, credentials and personal linux configuration files.</p>
 <p> &emsp; </p>
 
