@@ -40,6 +40,8 @@
 
 <b><p>- <a href="https://profile.coursecareers.com/it/mark.meaney"> CourseCareers IT Professional
 
+<b><p>- <a href="https://www.linkedin.com/in/mark-meaney-176280354/"> Plus many more supplemental IT certifications on linkedin
+
 <p> &emsp; </p>
 
 
