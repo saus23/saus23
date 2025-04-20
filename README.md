@@ -1,7 +1,6 @@
 <h1>Mark Meaney <p><a href="https://profile.coursecareers.com/it/mark.meaney"> IT & Software Development </a>⚙️</h1>
-<p>Hi, I'm Mark. Here you will find some of my IT tutorials, projects, credentials and personal linux configuration files.</p>
+<p>Hi, I'm Mark. Here you will find some of my IT tutorials, projects, and personal linux configuration files.</p>
 <p> &emsp; </p>
-
 
 
 <h2>👨‍💻 IT Tutorials</h2>
@@ -33,21 +32,6 @@
 
 <p> &emsp; </p>
 
-<h2>📜 Certifications</h2>
-<b><p>- <a href="https://verify.openedg.org/?id=1Pm7.81zY.r4jm"> [CPE-20-01] CPE – C++ Certified Entry-Level Programmer</a><b>
-
-<b><p>- <a href="https://verify.openedg.org/?id=AA9J.rGRN.LGBN"> [CPA-21-02] CPA – C++ Certified Associate Programmer</a><b>
-
-<b><p>- <a href="https://profile.coursecareers.com/it/mark.meaney"> CourseCareers IT Professional
-
-<b><p>- <a href="https://www.linkedin.com/in/mark-meaney-176280354/"> Plus many more supplemental IT certifications on linkedin
-
-<p> &emsp; </p>
-
-
-[<img src="https://images.credly.com/images/51720c50-39e4-41f5-abe5-c4ae12b8e26c/image.png" alt="CPE" width="150"/>](https://www.credly.com/badges/4f03b57f-1416-4037-be49-5e7a8e3fee06/public_url) &emsp; [<img src="https://images.credly.com/images/01cbdda3-ce36-439a-867d-310b13f99bc7/image.png" alt="CPA" width="150"/>](https://www.credly.com/badges/e27f0684-ff3b-4319-9ff2-ca122c88a69c/public_url)
-
-
 
 <h2>🤳Connect with me:</h2>
 
@@ -58,4 +42,6 @@
 
 [linkedin]: https://www.linkedin.com/in/mark-meaney-176280354/
 [youtube]: https://www.youtube.com/@yungmang
+<p> &emsp; </p>
 
+[<img src="https://images.credly.com/images/01cbdda3-ce36-439a-867d-310b13f99bc7/image.png" alt="CPA" width="150"/>](https://verify.openedg.org/?id=AA9J.rGRN.LGBN)
