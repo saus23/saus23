@@ -3,7 +3,7 @@
 <p> &emsp; </p>
 
 
-<h2>👨‍💻 IT Tutorials</h2>
+<h2>📖 IT Tutorials</h2>
 
 - <b>Active Directory</b>
   - [Azure setup](https://github.com/saus23/AD-Lab/tree/main)
@@ -33,7 +33,7 @@
 <p> &emsp; </p>
 
 
-<h2>🤳Connect with me:</h2>
+<h2>📠 Connect with me:</h2>
 
 
 [<img align="left" alt="Mark | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
