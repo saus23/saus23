@@ -45,4 +45,4 @@
 <p> &emsp; </p>
 
 [<img src="https://images.credly.com/images/01cbdda3-ce36-439a-867d-310b13f99bc7/image.png" alt="CPA" width="150"/>](https://verify.openedg.org/?id=AA9J.rGRN.LGBN)
-[<img src="https://i.imgur.com/oDp3Ua7.png" alt="A+" width="162"/>](https://www.credly.com/badges/8f24bdc8-bdb2-4f4a-aab7-8d2c3bd3bc46/public_url)
+[<img src="https://i.imgur.com/oDp3Ua7.png" alt="A+" width="162"/>](https://www.certmetrics.com/comptia/public/verification.aspx/)
