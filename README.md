@@ -37,7 +37,6 @@
 
 
 [<img align="left" alt="Mark | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mark | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
 [linkedin]: https://www.linkedin.com/in/mark-meaney-176280354/
