@@ -41,7 +41,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/mark-meaney-176280354/
-[youtube]: https://www.youtube.com/@yungmang
 <p> &emsp; </p>
 
 [<img src="https://images.credly.com/images/01cbdda3-ce36-439a-867d-310b13f99bc7/image.png" alt="CPA" width="150"/>](https://verify.openedg.org/?id=AA9J.rGRN.LGBN) &emsp;
